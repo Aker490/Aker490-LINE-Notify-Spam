@@ -4,7 +4,7 @@
 
 1. git clone https://github.com/Aker490/Aker490-LINE-Notify-Spam
 2. cd Aker490-LINE-Notify-Spam
-3. Python main.py
+3. python main.py
 
 
 ## 📝 ตัวอย่าง
